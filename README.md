@@ -7,8 +7,8 @@
    📍 Kolkata, West Bengal
 
    ## 🚀 Projects
-   - [My Portfolio](link-to-deployed-site )
-   - [JBL Brand Page](link-to-deployed-site)
+   - [My Portfolio](https://vercel.com/snehasis22s/snehasis-naskar/9hU3fXCxcyXSnZfwH92Hv78jYMkV)
+   - [JBL Brand Page](https://vercel.com/snehasis22s/jbl-brandpage/f1Gp4T9AvzmidFMnSPcCYb7mQNBP)
    - [More projects...]
 
    ## 📫 Contact
